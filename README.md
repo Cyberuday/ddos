@@ -18,3 +18,18 @@ A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt 
 
 # !! WARNING !!
 ### This Tool is For Educational purpose only ,Giving DDOS ATTACK without site owner is ILLIGAL .So use it at your own risk ,we will not responsible for any types of Misuses !!
+
+<h3 align="center">A passionate ETHICAL HACKER from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberuday&label=Profile%20views&color=0e75b6&style=flat" alt="cyberuday" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/uday-pratap-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-pratap-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/cyberuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberuday" height="30" width="40" /></a>
+<a href="https://discord.gg/devilsworld0994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devilsworld0994" height="30" width="40" /></a>
+</p>
+
+
